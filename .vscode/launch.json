@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SampleSamba",
+            "request": "launch",
+            "mainClass": "com.marifnst.tutorial.samba.SampleSamba",
+            "projectName": "marifnst-tutorial"
+        }
+    ]
+}
