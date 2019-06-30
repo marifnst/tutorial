@@ -2,3 +2,7 @@
 	path = tutorial
 	url = https://github.com/marifnst/tutorial.git
 	branch = master
+[submodule "sample_factory"]
+	path = sample_factory
+	url = https://github.com/marifnst/sample_factory.git
+	branch = sample_factory
