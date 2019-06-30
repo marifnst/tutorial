@@ -4,3 +4,8 @@ This tutorial contains of:
   - Sample samba connection in JAVA
   - Sample decompression in JAVA (using [Apache Common Compress](https://commons.apache.org/proper/commons-compress/]))
   - Sample checksum in JAVA
+  - Sample abstract factory
+
+### Note
+  - Tutorial of sub-module ([Example of Sub Module Configuration](https://github.com/EmaroLab/docs/wiki/GitHub-Tutorial-to-Manage-Project-with-SubRepositories))
+
